@@ -8,7 +8,7 @@ Here is where you describe what the program does
 ```mermaid
 graph TD;
   main-->menu;
-  main-->Get-Random;
+  main-->Get_Random;
   main-->Player_One;
   main-->Player_Two;
   main-->Exit;
